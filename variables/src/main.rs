@@ -44,23 +44,11 @@ fn main() {
     // let six_point_four = x.1;
     // let one = x.2;
 
-    let a = [1, 2, 3, 4, 5];
-    let months = [
-        "January",
-        "February",
-        "March",
-        "April",
-        "May",
-        "June",
-        "July",
-        "August",
-        "September",
-        "October",
-        "November",
-        "December",
-    ];
-    let first = a[0];
-    let second = a[1];
-    let index = 10;
-    let element = a[index];
+    println!("Hello world!");
+
+    another_function();
+}
+
+fn another_function() {
+    println!("Another Function.")
 }
