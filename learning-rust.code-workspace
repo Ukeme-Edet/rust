@@ -14,6 +14,9 @@
 		},
 		{
 			"path": "fahrenheit_to_celsius"
+		},
+		{
+			"path": "fibonacci_number"
 		}
 	],
 	"settings": {}
