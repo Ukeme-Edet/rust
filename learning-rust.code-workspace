@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "branches"
+		},
+		{
+			"path": "loops"
 		}
 	],
 	"settings": {}
