@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "variables"
+		},
+		{
+			"path": "functions"
+		},
+		{
+			"path": "branches"
+		}
+	],
+	"settings": {}
+}
