@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "loops"
+		},
+		{
+			"path": "fahrenheit_to_celsius"
 		}
 	],
 	"settings": {}
