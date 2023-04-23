@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "fibonacci_number"
+		},
+		{
+			"path": "guessing_game"
 		}
 	],
 	"settings": {}
