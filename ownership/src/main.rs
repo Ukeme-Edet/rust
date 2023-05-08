@@ -27,6 +27,7 @@ fn main() {
 
 fn takes_ownership(some_string: String) {
     // some_string comes into scope
+    
     println!("{}", some_string);
 } // Here, some_string goes out of scope and `drop` is called. The backing
   // memeory is freed.
